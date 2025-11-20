@@ -2,10 +2,12 @@ using System.Collections;
 using UnityEngine;
 using TMPro;
 
+
 public class DiaryManager : MonoBehaviour
 {
     public TMP_InputField diaryInput;
     public TMP_Text resultText;
+// test change
 
     public void OnClickSave()
     {
